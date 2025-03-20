@@ -10,8 +10,10 @@ This school project aims to fine-tune a language model using Fıkralar as traini
 - Set up the initial project structure.
 
 ## Next Steps
+- Collect a data collection for training
 - Begin fine-tuning the Mistral AI model.
 - Develop and integrate the user interface.
+- Test for end-to-end
 
 ## Getting Started TODO
 Instructions on how to set up and run the project will be added soon.
