@@ -19,6 +19,7 @@ build/
 lib/
 coverage/
 *.js.map
+*/.next/*
 
 # Visual Studio / VS Code
 .vs/
